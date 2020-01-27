@@ -1,3 +1,7 @@
 def draw_hospital():
-    print("hospital not found")
+    print("    /---------\    ")
+    print("   |     +     |   ")
+    print(" ----------------- ")
+    print(" |     door      | ")
+    print(" _________________ ")
     return
